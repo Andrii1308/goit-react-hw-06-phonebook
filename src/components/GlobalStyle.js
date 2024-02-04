@@ -1,5 +1,5 @@
-import { createGlobalStyle } from 'styled-components'
-import 'modern-normalize'
+import { createGlobalStyle } from 'styled-components';
+import 'modern-normalize';
 
 export const GlobalStyle = createGlobalStyle`
   body {
@@ -37,4 +37,4 @@ h6,
 p {
   margin: 0;
 }
-`
+`;
